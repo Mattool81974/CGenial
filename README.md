@@ -1,2 +1,2 @@
 # CGenial
-Mon projet pour le concours CGenial
+Ce projet correspond à mon projet pour le concours "CGenial".
